@@ -1,4 +1,4 @@
-package com.mercadito.mercadito_auth.config; // Paquete de Configuraciones
+package com.mercadito.mercadito_auth.config; // Paquete donde se encuentran configuraciones generales
 
 import io.swagger.v3.oas.models.info.Info; // Importa la clase Info para proporcionar metadatos de la API (título, versión, descripción)
 import io.swagger.v3.oas.models.OpenAPI; // Importa OpenAPI, que representa el objeto raíz para la configuración de OpenAPI
